@@ -21,7 +21,7 @@
   
   </p>
 
-## Connect with me:
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="left">
 
 <p align="left"> <a href="https://twitter.com/akhilesh1m" target="blank"><img src="https://img.shields.io/twitter/follow/akhilesh1m?logo=twitter&style=for-the-badge" alt="akhilesh1m" /></a> </p>
@@ -32,7 +32,7 @@
 ## 📊  My GitHub Stats
 
   <br/>
-    <a href="https://github.com/iamakhileshmishra/github-readme-stats"><img alt="Akhilesh Kumar Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamakhileshmishra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/iamakhileshmishra/github-readme-stats"><img alt="Akhilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamakhileshmishra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/iamakhileshmishra/github-readme-stats"><img alt="Akhilesh Kumar Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamakhileshmishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
