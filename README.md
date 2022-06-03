@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhilesh Kumar Mishra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  height="35px" width="10px">, I'm Akhilesh Kumar Mishra</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 <h3 align="center">A passionate Full Stack Developer</h3>
@@ -22,7 +22,7 @@
   <a href="https://codeforces.com/profile/iamakhileshmishra"><img height="40px" width="105px"src="https://codeforces.org/s/12237/images/codeforces-logo-with-telegram.png"/></a>
   </p>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="10px">
 <p align="left">
 
 <p align="left"> <a href="https://twitter.com/akhilesh1m" target="blank"><img src="https://img.shields.io/twitter/follow/akhilesh1m?logo=twitter&style=for-the-badge" alt="akhilesh1m" /></a> </p>
