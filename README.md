@@ -67,7 +67,7 @@
 
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-<p align="center"><img src="https://github.com/iamakhileshmishra/iamakhileshmishra/blob/main/ezgif.com-gif-maker.gif" alt="@iamakhileshmishra Gitub Skyline" width="600" /></p>
+<p align="center"><img src="https://github.com/iamakhileshmishra/iamakhileshmishra/blob/main/gif-20221002-230115.gif" alt="@iamakhileshmishra Gitub Skyline" width="600" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamakhileshmishra&theme=dracula&show_icons=true" alt="iamakhileshmishra" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=iamakhileshmishra&theme=dracula&hide_border=false" alt ="iamakhileshmishra" width="400" />
