@@ -72,6 +72,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamakhileshmishra&theme=dracula&show_icons=true" alt="iamakhileshmishra" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=iamakhileshmishra&theme=dracula&hide_border=false" alt ="iamakhileshmishra" width="400" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamakhileshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="iamakhileshmishra" /> </p>
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
-
