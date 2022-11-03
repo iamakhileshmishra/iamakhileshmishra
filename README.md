@@ -10,6 +10,7 @@
 - Most important thing :heart: I enjoy what I do. :heart:
 
 ---
+[![@iamakhileshmishra's Holopin board](https://holopin.me/iamakhileshmishra)](https://holopin.io/@iamakhileshmishra)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakhileshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="iamakhileshmishra" /> </p>
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 <h2 align="center">My Tech Stack 🧰</h2>
